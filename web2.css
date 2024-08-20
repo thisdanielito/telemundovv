@@ -1,0 +1,39 @@
+#footer{
+    background-color: antiquewhite;
+}
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+nav img{
+    width: 80px;
+}
+.card{
+    font-size: 20px;
+    border: none;
+    text-align: left;
+    font-weight: bold;
+   
+   
+ 
+    
+    
+    
+}
+#principal img{
+    max-height: 70%;
+}
+
+.container img{
+    object-fit: cover;
+    height: 280px;
+    width: 100%;
+   
+    
+}
+#principal{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
